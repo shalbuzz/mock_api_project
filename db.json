@@ -1,9 +1,125 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+    "products": [
+      {
+        "id": "1",
+        "name": "Half sleeve T-shirt",
+        "price": 20,
+        "image": "https://rivon-demo.myshopify.com/cdn/shop/files/Fashion_03.png?v=1733810921",
+        "hoverImage": "https://rivon-demo.myshopify.com/cdn/shop/files/Fashion_15.png?v=1733810922",
+        "rating": "★★★★"
+      },
+      {
+        "id": "2",
+        "name": "Brown hat craft",
+        "price": 50,
+        "image": "https://rivon-demo.myshopify.com/cdn/shop/files/Fashion_05_940x.png?v=1733818297",
+        "hoverImage": "https://rivon-demo.myshopify.com/cdn/shop/files/Fashion_05_940x.png?v=1733818297",
+        "rating": "★★★★"
+      },
+      {
+        "id": "3",
+        "name": "Slim-Fit Formal Suit Blazer",
+        "price": 38,
+        "image": "https://rivon-demo.myshopify.com/cdn/shop/files/Fashion_11.png?v=1733810921",
+        "hoverImage": "https://rivon-demo.myshopify.com/cdn/shop/files/Fashion_06_940x.png?v=1733810922",
+        "rating": "★★★★★"
+      },
+      {
+        "id": "4",
+        "name": "Retro Tie-Dye Color Splash T-Shirt",
+        "price": 19,
+        "image": "https://rivon-demo.myshopify.com/cdn/shop/files/Fashion_02.png?v=1733810921",
+        "hoverImage": "https://rivon-demo.myshopify.com/cdn/shop/files/Fashion_12.png?v=1733810921",
+        "rating": "★★"
+      },
+      {
+        "id": "5",
+        "name": "Geometric Print Relaxed Fit Tee",
+        "price": 54,
+        "image": "https://rivon-demo.myshopify.com/cdn/shop/files/Fashion_14_940x.png?v=1733810921",
+        "hoverImage": "https://rivon-demo.myshopify.com/cdn/shop/files/Fashion_14_940x.png?v=1733810921",
+        "rating": "★★★★"
+      },
+      {
+        "id": "6",
+        "name": "Floral Pattern Colorful Summer Tee",
+        "price": 28,
+        "oldPrice": 62,
+        "image": "https://rivon-demo.myshopify.com/cdn/shop/files/Fashion_10_940x.png?v=1733810921",
+        "hoverImage": "https://rivon-demo.myshopify.com/cdn/shop/files/Fashion_10_940x.png?v=1733810921",
+        "sale": true,
+        "rating": "★★★"
+      },
+      {
+        "id": "7",
+        "name": "Black hat craft",
+        "price": 31,
+        "image": "https://rivon-demo.myshopify.com/cdn/shop/files/Fashion_04_940x.png?v=1733818314",
+        "hoverImage": "https://rivon-demo.myshopify.com/cdn/shop/files/Fashion_04_940x.png?v=1733818314",
+        "rating": "★★★★★"
+      },
+      {
+        "id": "8",
+        "name": "Warm Fit-and-Flare Winter Dress",
+        "price": 46,
+        "oldPrice": 54,
+        "image": "https://rivon-demo.myshopify.com/cdn/shop/files/Fashion_16.png?v=1733810921",
+        "hoverImage": "https://rivon-demo.myshopify.com/cdn/shop/files/Fashion_14.png?v=1733810921",
+        "sale": true,
+        "rating": "★"
+  }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
-}
+
+   "best-products": [
+    {
+      "id": "1",
+      "name": "Half sleeve T-shirt",
+      "price": 20,
+      "image": "https://rivon-demo.myshopify.com/cdn/shop/files/Fashion_03.png?v=1733810921",
+      "hoverImage": "https://rivon-demo.myshopify.com/cdn/shop/files/Fashion_15.png?v=1733810922",
+      "rating": "★★★★"
+    },
+    {
+      "id": "2",
+      "name": "Brown hat craft",
+      "price": 50,
+      "image": "https://rivon-demo.myshopify.com/cdn/shop/files/Fashion_05_940x.png?v=1733818297",
+      "hoverImage": "https://rivon-demo.myshopify.com/cdn/shop/files/Fashion_05_940x.png?v=1733818297",
+      "rating": "★★★★"
+    },
+    {
+      "id": "3",
+      "name": "Slim-Fit Formal Suit Blazer",
+      "price": 38,
+      "image": "https://rivon-demo.myshopify.com/cdn/shop/files/Fashion_11.png?v=1733810921",
+      "hoverImage": "https://rivon-demo.myshopify.com/cdn/shop/files/Fashion_06_940x.png?v=1733810922",
+      "rating": "★★★★★"
+    },
+    {
+      "id": "4",
+      "name": "Retro Tie-Dye Color Splash T-Shirt",
+      "price": 19,
+      "image": "https://rivon-demo.myshopify.com/cdn/shop/files/Fashion_02.png?v=1733810921",
+      "hoverImage": "https://rivon-demo.myshopify.com/cdn/shop/files/Fashion_12.png?v=1733810921",
+      "rating": "★★"
+    },
+    {
+      "id": "5",
+      "name": "Geometric Print Relaxed Fit Tee",
+      "price": 54,
+      "image": "https://rivon-demo.myshopify.com/cdn/shop/files/Fashion_14_940x.png?v=1733810921",
+      "hoverImage": "https://rivon-demo.myshopify.com/cdn/shop/files/Fashion_14_940x.png?v=1733810921",
+      "rating": "★★★★"
+    },
+    {
+      "id": "6",
+      "name": "Floral Pattern Colorful Summer Tee",
+      "price": 28,
+      "oldPrice": 62,
+      "image": "https://rivon-demo.myshopify.com/cdn/shop/files/Fashion_10_940x.png?v=1733810921",
+      "hoverImage": "https://rivon-demo.myshopify.com/cdn/shop/files/Fashion_10_940x.png?v=1733810921",
+      "sale": true,
+      "rating": "★★★"
+    }
+  ]
+  }
